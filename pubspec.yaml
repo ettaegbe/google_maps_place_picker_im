@@ -5,7 +5,7 @@ version: 2.0.0-mb.22
 homepage: https://github.com/martin-braun/google_maps_place_picker_mb
 
 environment:
-  sdk: ">=2.15.0 <3.0.0"
+  sdk: ">=2.15.0 <3.0.3"
   flutter: ">=2.10.2"
 
 dependencies:
@@ -16,7 +16,7 @@ dependencies:
   google_maps_flutter: ^2.1.10
   google_maps_webservice: ^0.0.20-nullsafety.5
   http: ^0.13.5
-  location: ^4.4.0
+  location: ^5.0.0-dev.8
   provider: ^6.0.3
   tuple: ^2.0.0
   uuid: ^3.0.6
